@@ -1,0 +1,1 @@
+module.exports = ['N', 'W', 'S', 'E'];
